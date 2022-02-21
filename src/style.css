@@ -11,11 +11,16 @@ html {
     rgba(12, 10, 22, 0.863)
   );
 
-  --imp-text-color: #c770f0;
+  --imp-text-color: #c50fae;
 }
 
 .purple {
   color: var(--imp-text-color) !important;
+}
+
+.my-logo{
+  font-size: 3.3rem;
+  color: var(--imp-text-color) !important;;
 }
 
 /* --------- */
