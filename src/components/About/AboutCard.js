@@ -10,8 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">KEYVAN BAYAT </span>
             from <span className="purple"> Tehran, Iran.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+            <br />I am a front end developer . worked with React js frame work and build various websites
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -31,7 +30,7 @@ function AboutCard() {
           <p style={{ marginBlockEnd: 0, color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Keyvan</footer>
         </blockquote>
       </Card.Body>
     </Card>
